@@ -1,4 +1,4 @@
-![](/images/switch.png)
+![](images/switch.png)
 
 ---
 
@@ -169,7 +169,7 @@ include!(concat!(env!("OUT_DIR"), "/bindings.rs"));
 
 ---
 
-![](/images/bindings.rs.png)
+![](images/bindings.rs.png)
 
 ---
 
